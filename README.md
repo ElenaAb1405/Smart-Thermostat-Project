@@ -16,7 +16,7 @@ To view and interact with the notebooks, you will need to have Jupyter Notebook 
 
 Once you have Jupyter installed, you can simply clone or download this repository and open the Jupyter notebooks (*.ipynb) in the Jupyter interface to explore the project. Also you need to save these csv files at the same directory where notebooks are.
 
-In addition, you need to have installed Python and the next libraries: **pandas, numpy, Datetime, PCA, math, geopy, Sseaborn, Matplotlib.pyplot, Scipy, Sklearn, Statsmodels.api, xgboost, joblib**
+In addition, you need to have installed Python and the next libraries: **pandas, numpy, Datetime, PCA, math, geopy, seaborn, Matplotlib.pyplot, Scipy, Sklearn, Statsmodels.api, xgboost, joblib**
 
 
 ## Usage
