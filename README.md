@@ -16,11 +16,11 @@ To view and interact with the notebooks, you will need to have Jupyter Notebook 
 
 Once you have Jupyter installed, you can simply clone or download this repository and open the Jupyter notebooks (*.ipynb) in the Jupyter interface to explore the project. Also you need to save these csv files at the same directory where notebooks are.
 
-In addition, you need to have installed Python and the next libraries: pandas, numpy, Datetime, PCA, math, geopy, Sseaborn, Matplotlib.pyplot, Scipy, Sklearn, Statsmodels.api, xgboost, joblib
+In addition, you need to have installed Python and the next libraries: **pandas, numpy, Datetime, PCA, math, geopy, Sseaborn, Matplotlib.pyplot, Scipy, Sklearn, Statsmodels.api, xgboost, joblib**
 
 
 ## Usage
-In terms of the project 2 notebooks were created, where you can find 5 key steps:
+In terms of the project 2 notebooks were created, where you can find 4 key steps:
 - **Data creation**: 
   - synthetic data for family with 4 members for 2022
   - feature engineering 
