@@ -7,7 +7,7 @@ temperature at home at the same timestamps, geolocations, distance out of home a
 
 ## Table of Contents
 - [Dataset creation, generation of synthetic data](dataset_sample_thermostat.ipynb)
-- [EDA and Modeling](Prototype_EDA_Modeling.md)
+- [EDA and Modeling](Prototype_EDA_Modeling.ipynb)
 
 ## Installation
 This project does not require any specific installation steps. It mainly consists of CSV files and Jupyter notebooks, which can be directly accessed and opened.
