@@ -26,13 +26,13 @@ In addition, you need to have installed Python and the next libraries: Pandas, N
 ## Results
 - Supervised model was created (20 variables). The target variable has 1 or 0 values and responds for swithing on/off the thermostat according to some rules
 - In terms of modeling 3 models Logistic Regression, Random Forest and XG Boosting were run
-- The best F1-Score was reached with XG Boosting model - 98%. F1-Score was chosen as a key metric because economy is important as well as comfortable temperature at home
+- The best F1-Score was reached with XG Boosting model - 98%. F1-Score was chosen as a key metric because saving money is important as well as comfortable temperature at home
 - The most important variables were found and visualized
 
 **Next steps**
-- To run this model with different datasets 
+- To train this model with different datasets 
 - The final dataset looks pretty simple it means we need to improve the quality and quantity of our dataset
-- to pay more attention on geolocation and motion speed
+- To pay more attention on geolocation and motion speed
 
 
 ## License
