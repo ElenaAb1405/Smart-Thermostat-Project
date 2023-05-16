@@ -16,17 +16,29 @@ To view and interact with the notebooks, you will need to have Jupyter Notebook 
 
 Once you have Jupyter installed, you can simply clone or download this repository and open the Jupyter notebooks (*.ipynb) in the Jupyter interface to explore the project. Also you need to save these csv files at the same directory where notebooks are.
 
-In addition, you need to have installed Python and the next libraries: Pandas, Numpy, Datetime, PCA, Math, Geopy, Seaborn, Matplotlib.pyplot, Scipy, Sklearn, Statsmodels.api, xgboost, joblib
+In addition, you need to have installed Python and the next libraries: pandas, numpy, Datetime, PCA, math, geopy, Sseaborn, Matplotlib.pyplot, Scipy, Sklearn, Statsmodels.api, xgboost, joblib
 
 
 ## Usage
-
-
+In terms of the project 2 notebooks were created, where you can find 5 key steps:
+- **Data creation**: 
+  - synthetic data for family with 4 members for 2022
+  - feature engineering 
+- **Exploratory data analysis**
+- **Visualization of relationships between variables**
+- **Modeling principals**:
+  -Data split: train - 60%, validation - 20%, test - 20%
+  - Focused metrics: F1-Score 
+  (F1-Score was chosen as a key metric because saving money is important 
+  as well as comfortable temperature at home)
+  - Principal Component analysis (PCA=4)
+  - Tuning technique: Grid Search
+  - 5-fold Cross Validation
 
 ## Results
 - Supervised model was created (20 variables). The target variable has 1 or 0 values and responds for swithing on/off the thermostat according to some rules
 - In terms of modeling 3 models Logistic Regression, Random Forest and XG Boosting were run
-- The best F1-Score was reached with XG Boosting model - 98%. F1-Score was chosen as a key metric because saving money is important as well as comfortable temperature at home
+- The best F1-Score was reached with XG Boosting model - 98%. 
 - The most important variables were found and visualized
 
 **Next steps**
