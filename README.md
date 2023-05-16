@@ -3,8 +3,8 @@
 **Project Description**: Project description placeholder
 
 ## Table of Contents
-- [Notebook 1](notebook1.md)
-- [Notebook 2](notebook2.md)
+- [dataset_sample_thermostat](notebook1.md)
+- [Prototype_EDA_Modeling](notebook2.md)
 
 ## Installation
 
